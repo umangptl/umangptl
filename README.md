@@ -28,18 +28,25 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,clojure,css,html,java,js,md,py,scala"</a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,clojure,java,md,py,scala"</a>
 </p>
+    
+<h3 align="left">Web Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,flask,html,js,nodejs,postman,react,spring"</a>
+</p>
+    
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"</a>
 </p>
 
-<h3 align="left">Technologies & Tools:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,emacs,flask,git,github,linux,maven,nodejs,postman,pytorch,raspberrypi,react,regex,spring,tensorflow," />
+    <img src="https://skillicons.dev/icons?i=bash,emacs,git,github,linux,maven,pytorch,raspberrypi,regex,tensorflow," />
   </a>
 </p>
 
