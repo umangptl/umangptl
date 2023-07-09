@@ -59,7 +59,7 @@
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umangptl&theme=github_dark&exclude={exclude}" alt="stats card" /></p>
 <p><img align="rigth" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umangptl&theme=github_dark&exclude={exclude}" alt="time card" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangptl&theme=dark" alt="total streak card" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=umangptl&theme=dark&border_radius=5&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)" alt="total streak card" /></p>
 
