@@ -50,8 +50,15 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangptl&hide_progress=true&theme=dark" alt="umangptl" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umangptl&theme=github_dark" alt="Profile card" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangptl&theme=dark" alt="umangptl" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umangptl&theme=github_dark&exclude={exclude}" alt="repository card" /></p>
+<p><img align="rigth" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umangptl&theme=github_dark&exclude={exclude}" alt="commits card" /></p>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umangptl&theme=github_dark&exclude={exclude}" alt="stats card" /></p>
+<p><img align="rigth" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umangptl&theme=github_dark&exclude={exclude}" alt="time card" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangptl&theme=dark" alt="total streak card" /></p>
+
 
 
