@@ -8,7 +8,7 @@
   
   Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)</h3>
 
-- 🔭 I’m currently working on [ItemMarket](https://github.com/umangptl/ItemMarket)
+- 🔭 I’m currently working on [ItemMarket](https://github.com/umangptl/ItemMarket) | [SkillMatch](https://github.com/umangptl/I-TheIterators) | SilverTheater
 
 - 🌱 I’m currently learning **React, Nodejs & MongoDB**
 
