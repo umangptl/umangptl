@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [ItemMarket](https://github.com/umangptl/ItemMarket) 
 
-- 🌱 I’m currently learning **Machine learning and Testing Artificial intelligence **
+- 🌱 I’m currently learning **Machine learning and Testing Artificial intelligence**
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
