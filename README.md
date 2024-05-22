@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📄 Know about my experiences [Resume](https://umangptl.github.io/portfolio/Resources/doc/PatelUmang.pdf)
 -->
 <h1 align="center">Hi 👋, I'm Umang Patel</h1>
 <h3 align="center">I'm a passionate developer who loves building innovative solutions using cutting-edge technologies.
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **umang26patel@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://umangptl.github.io/portfolio/Resources/doc/PatelUmang.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
