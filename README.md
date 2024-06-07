@@ -9,9 +9,9 @@
   
   Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)</h3>
 
-- 🔭 I’m currently working on [ItemMarket](https://github.com/umangptl/ItemMarket) 
+- 🔭 I’m currently working on **AI Cloud System** 
 
-- 🌱 I’m currently learning **Machine learning and Testing Artificial intelligence**
+- 🌱 I’m currently learning **Smartphone Application Development**
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
@@ -29,38 +29,42 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,clojure,java,md,py,scala"</a>
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,clojure,scala,md"</a>
 </p>
     
 <h3 align="left">Web Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,flask,html,js,nodejs,postman,react,spring"</a>
+    <img src="https://skillicons.dev/icons?i=css,html,js,flask,nodejs,vue,postman,react,spring"</a>
 </p>
     
-<h3 align="left">Database:</h3>
+<h3 align="left">Machine learning:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"</a>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  </a>
+</p>
+    
+<h3 align="left">Cloud Services and Database:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,mysql,postgres"</a>
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,emacs,git,github,linux,maven,pytorch,raspberrypi,regex,tensorflow," />
+    <img src="https://skillicons.dev/icons?i=git,github,sublime,vscode,raspberrypi,figma,jenkins,ansible,docker,kubernetes" />
   </a>
 </p>
-<!--
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umangptl&theme=github_dark" alt="Profile card" /></p> -->
 
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umangptl&theme=github_dark" alt="Profile card" /></p> 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umangptl&theme=github_dark&exclude={exclude}" alt="repository card" /></p>
 <p><img align="rigth" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umangptl&theme=github_dark&exclude={exclude}" alt="commits card" /></p>
 
 <!--
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umangptl&theme=github_dark&exclude={exclude}" alt="stats card" /></p>
 <p><img align="rigth" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umangptl&theme=github_dark&exclude={exclude}" alt="time card" /></p> 
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=umangptl&theme=dark&border_radius=5&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)" alt="total streak card" /></p>
 
