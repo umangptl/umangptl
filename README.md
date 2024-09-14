@@ -5,8 +5,8 @@
 - 📄 Know about my experiences [Resume](https://umangptl.github.io/portfolio/Resources/doc/PatelUmang.pdf)
 -->
 <h1 align="center">Hi 👋, I'm Umang Patel</h1>
-<h3 align="center">I'm a Software Engineer (Full Stack), who loves building innovative and efficient software solutions to power the future.</h3>
-
+<h3 align="center">I'm a Software Engineer - Full Stack | Machine Learning Engineer  </h3> 
+<h3 align="center">I love building innovative and efficient software solutions to power the future.</h3>
 <h4>About Me </h4>
 
 -  Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)
