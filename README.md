@@ -5,13 +5,15 @@
 - 📄 Know about my experiences [Resume](https://umangptl.github.io/portfolio/Resources/doc/PatelUmang.pdf)
 -->
 <h1 align="center">Hi 👋, I'm Umang Patel</h1>
-<h3 align="center">I'm a passionate developer who loves building innovative solutions using cutting-edge technologies.
-  
-  Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)</h3>
+<h3 align="center">I'm a Software Engineer (Full Stack), who loves building innovative and efficient software solutions to power the future.</h3>
 
-- 🔭 I’m currently working on **AI Cloud System** 
+<h4>About Me </h4>
 
-- 🌱 I’m currently learning **Smartphone Application Development**
+-  Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)
+
+- 🔭 I’m currently working on **AI Cloud Application System** 
+
+- 🌱 I’m currently learning **Generative AI | LLMs | Smartphone Application Development**
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
