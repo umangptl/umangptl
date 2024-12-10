@@ -6,9 +6,9 @@
 
 -  Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)
 
-- 🔭 I’m currently working on **AI Cloud Application System** 
+- 🔭 I’m currently working on **AI Cloud Application** 
 
-- 🌱 I’m currently learning **Generative AI | LLMs | Smartphone Application Development**
+- 🌱 I’m currently learning **Generative AI | Mobile Application Development**
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
