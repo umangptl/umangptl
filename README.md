@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Umang Patel</h1>
-<h3 align="center">I'm a Software Engineer - Full Stack | Machine Learning Engineer  </h3> 
+<h3 align="center">I'm a Software Engineer - Full Stack | Machine Learning Engineer | AI Integration </h3> 
 <h3 align="center">I love building innovative and efficient software solutions to power the future.</h3>
 <h4>About Me </h4>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI Cloud Application** 
 
-- 🌱 I’m currently learning **Generative AI | Mobile Application Development**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
