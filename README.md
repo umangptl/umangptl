@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/umangptl" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="umang26patel"/></a>
 <a href="https://instagram.com/umangptl" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true" alt="umangptl"/></a>
-<a href="https://twitter.com/umang2ptl" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" alt="umang2ptl"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
