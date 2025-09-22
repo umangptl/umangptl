@@ -4,11 +4,13 @@
 <h3 align="center">I love building innovative and efficient software solutions to power the future.</h3>
 <h4>About Me </h4>
 
--  Currently pursuing a Master's in Software Engineering at San Jose State University (SJSU)
+-  🎓 M.S. Software Engineering, San José State University (completed)
 
-- 🔭 I’m currently working on **AI Cloud Application** 
+-  💼 Actively seeking **full-time opportunities** in Full-Stack SWE • AI/ML
 
-- 🌱 I’m currently learning **Generative AI**
+- 🔭 I’m currently working on **Cross Platfrom Application** 
+
+- 🌱 Exploring cutting-edge areas in **Generative AI (LLMs, RAG, Vector DBs)**
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
@@ -20,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umangptl" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="umang26patel"/></a>
-<a href="https://instagram.com/umangptl" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true" alt="umangptl"/></a>
+<!-- <a href="https://instagram.com/umangptl" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true" alt="umangptl"/></a> -->
 </p>
 
 <h3 align="left">Languages:</h3>
