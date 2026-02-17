@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Umang Patel</h1>
-<h3 align="center">I'm a Software Engineer - Full Stack | Machine Learning Engineer | AI Integration </h3> 
-<h3 align="center">I love building innovative and efficient software solutions to power the future.</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Engineer </h3> 
+<h3 align="center">I build scalable web applications and AI-powered systems that solve real-world problems.</h3>
 <h4>About Me </h4>
 
--  🎓 M.S. Software Engineering, San José State University (completed)
+-  🎓 M.S. in Software Engineering — San José State University
 
 -  💼 Actively seeking **full-time opportunities** in Full-Stack SWE • AI/ML
 
-- 🔭 I’m currently working on **Cross Platfrom Application** 
+- 🔭 Currently building a **cross-platform application** using modern web/mobile technologies
 
-- 🌱 Exploring cutting-edge areas in **Generative AI (LLMs, RAG, Vector DBs)**
+- 🌱 Exploring **Generative AI** — LLMs, RAG pipelines, and Vector Databases
 
 - 👨‍💻 View my [Portfolio](https://umangptl.github.io/portfolio)
 
